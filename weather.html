@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Weather of the city in PA</title>
+</head>
+<body>
+<p>The current temperature in {{ data["city"] }} is: <b>{{ data["temp"] }}</b></p>
+
+<pre>
+Weather Conditions:
+    Weather: <b>{{ data["weather_cond"] }}</b>
+    Relative Humidity: <b>{{ data["humidity"] }}</b>
+</pre>
+
+</body>
+</html>
