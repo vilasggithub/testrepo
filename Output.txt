@@ -1,0 +1,7 @@
+===============================================
+The current temperature in Philadelphia, PA is:
+	79.0 Fahrenheit 
+Weather Conditions:
+	Weather: Clear
+	Relative Humidity: 69%
+===============================================
